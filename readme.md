@@ -1,4 +1,4 @@
-git auto push test  git自動推送測試
+git auto push test/git自動推送測試
 ================================
 git_push.bat<br>
 
