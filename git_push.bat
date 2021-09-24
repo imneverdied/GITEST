@@ -1,3 +1,3 @@
 git add .
-git commit -m "auto Push"
-git push origin main
+git commit -m "Auto Push"
+git push https://github.com/imneverdied/GITEST.git main
