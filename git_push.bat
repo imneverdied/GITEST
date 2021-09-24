@@ -1,3 +1,3 @@
 git add .
-git commit -m "自動PUSH"
+git commit -m "auto Push"
 git push origin main
