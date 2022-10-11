@@ -1,0 +1,8 @@
+
+在github開啟專案
+git init
+git pull https://github.com/imneverdied/專案名.git main --allow-unrelated-histories
+
+git add .
+git commit -m "Auto Push"
+git push https://github.com/imneverdied/專案名.git main
